@@ -1,8 +1,1 @@
-version: 1.0.3
-files:
-  - url: electron-auto-update-example-setup-1.0.3.exe
-    sha512: jYy3V5V/v1JyWoYTRNaCGlIYNcY+wDeN2gn2WHt3rDBeFU++HSGCsrHRAyAL37YatHGJif4AiT/IfOJ74L6gUQ==
-    size: 44737456
-path: electron-auto-update-example-setup-1.0.3.exe
-sha512: jYy3V5V/v1JyWoYTRNaCGlIYNcY+wDeN2gn2WHt3rDBeFU++HSGCsrHRAyAL37YatHGJif4AiT/IfOJ74L6gUQ==
-releaseDate: '2021-06-19T02:09:42.204Z'
+---
